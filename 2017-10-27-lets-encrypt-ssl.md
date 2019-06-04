@@ -1,5 +1,5 @@
 ---
-title: 使用Lets Encrypt为站点快速部署SSL证书
+title: 使用Lets Encrypt为站点快速部署SSL证书 (Deprecated)
 name: lets-encrypt-ssl
 date: 2017-10-27
 tags: [ssl,https]

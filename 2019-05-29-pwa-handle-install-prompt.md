@@ -99,5 +99,3 @@ if (window.navigator.standalone === true) {
 + [Add to Home screen](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Add_to_home_screen)
 + [Before​Install​Prompt​Event](https://developer.mozilla.org/en-US/docs/Web/API/BeforeInstallPromptEvent)
 + [Add to Home Screen your ionic PWA](http://www.jomendez.com/2018/06/05/add-home-screen-pwas/)
-+ [Changes to Add to Home Screen Behavior](https://developers.google.com/web/updates/2018/06/a2hs-updates)
-+ []
