@@ -103,7 +103,7 @@ $ mv atlassian-extras-decoder-v2-3.4.1.jar atlassian-extras-2.4.jar
 
 ### 4.2 运行破解程序
 
-先下载破解文件，[点击下载](//cigorsica.com/1oBj)，使用命令`java -jar confluence_keygen.jar`运行，这里需要java运行环境，
+先下载破解文件，[点击下载](//cigorsica.com/1oBj){:target="_blank"}，使用命令`java -jar confluence_keygen.jar`运行，这里需要java运行环境，
 输入刚才记录的**服务器ID**，点击**.patch!**按钮，选择之前改名的 *atlassian-extras-2.4.jar* 文件，提示"Jar successfully patched"表示
 补丁打成功。
 
