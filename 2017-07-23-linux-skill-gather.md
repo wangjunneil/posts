@@ -9,6 +9,49 @@ categories: [Linux]
 * 目录
 {:toc}
 
+## 显示当前目录下文件大小
+
+```shell
+du -sh * | sort -nr 
+```
+
+## 列出子目录及大小
+
+```shell
+du -h -d 1
+```
+
+## 码表
+
+```shell
+time read (ctrl-d to stop)
+```
+
+## ascii词典
+
+```shell
+man ascii
+```
+
+## 在linux上关闭windows系统
+
+```shell
+net rpc shutdown -I ipAddressOfWindowsPC -U username%password
+```
+
+## 显示前10内存占用的进程
+
+```shell
+ps aux | sort -nk +4 | tail
+```
+
+## base64编解码
+
+```shell
+echo 'HelloWorld' | base64
+bash64 -d <<< 'SGVsbG9Xb3JsZAo='
+```
+
 ## 查看端口被谁占用
 
 ```shell
